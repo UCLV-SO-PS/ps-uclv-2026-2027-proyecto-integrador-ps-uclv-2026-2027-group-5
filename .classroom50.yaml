@@ -1,0 +1,7 @@
+schema: "classroom50/repo-config/v1"
+classroom: "ps-uclv-2026-2027"
+assignment: "proyecto-integrador-ps-uclv-2026-2027"
+owner:
+  username: "drgalpert"
+  id: 109859468
+  accepted_at: "2026-11-19T14:30:08Z"
